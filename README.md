@@ -15,9 +15,6 @@ Flask is a microframework for Python based on Werkzeug , Jinja2 & good intenetio
 
 You will need to have Flask installed. 
 
-```
-Give examples
-```
 
 ### Installing
 
