@@ -3,8 +3,8 @@
 A Simple Flask Application that help's you store your TO-Do's. This App also allows you to Sign-In & Sign-Up with cross validation & restricted access for unauthorized users.
 
 
-### Wait , what is Flask?s!
-Flask is a microframework for Python based on Werkzeug , Jinja2 & good intenetion
+### Wait , what is Flask?!
+Flask is a microframework for Python based on Werkzeug , Jinja2 & good intenetions!
 
 
 ### What does “micro” mean?
@@ -19,4 +19,6 @@ You will need to have Flask installed.
 ### Installing
 
 $ sudo pip install Flask
+
+And your are ready to run the script!
 
